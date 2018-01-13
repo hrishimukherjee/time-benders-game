@@ -1,0 +1,3 @@
+ -Xms64m -Xmx512m
+Object
+Object.jar,core.jar,JSynClasses.jar,sonia_v2_9.jar
