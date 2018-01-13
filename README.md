@@ -1,4 +1,6 @@
 # Time Benders
+![alt text](https://raw.githubusercontent.com/hrishimukherjee/time-benders-game/master/graphic.jpg)
+
 **Authors:** Hrishi Mukherjee, Scott Andrechek
 
 A physics based, 'Asteroids' spin off arcade game developed from scratch using the Processing IDE. The player controls a spaceship from top-down view, in order to advance through waves of asteroids with access to a full fledged store, special abilities, and scoring system.
