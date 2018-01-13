@@ -1,5 +1,5 @@
 # Time Benders
-![alt text](https://raw.githubusercontent.com/hrishimukherjee/time-benders-game/master/graphic.jpg)
+![alt text](https://raw.githubusercontent.com/hrishimukherjee/time-benders-game/master/time-benders.jpg)
 
 **Authors:** Hrishi Mukherjee, Scott Andrechek
 
